@@ -1,2 +1,0 @@
-#assignment
-print("mugdha")p
